@@ -1,1 +1,1 @@
-# therminal_vim-config-for-java-Tester
+# terminal -config-for-java-Tester
